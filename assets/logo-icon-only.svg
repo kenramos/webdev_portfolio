@@ -1,0 +1,38 @@
+<!-- Text with icon -->
+              <g transform="matrix(1,0,0,1,71.14148057176368,90)">
+                <svg viewBox="0 0 177.71703885647264 180" height="180" width="177.71703885647264">
+                  <g>
+                    <svg viewBox="0 0 224 226.8775141620671" height="180" width="177.71703885647264">
+                      <!-- TEXT BLOCK -->
+                      <g transform="matrix(1,0,0,1,0,137.06430773731992)">
+                        <svg viewBox="0 0 224 89.81320642474716" height="89.81320642474716" width="224">
+                          <g id="textblocktransform">
+                            <svg viewBox="0 0 224 89.81320642474716" height="89.81320642474716" width="224" id="textblock">
+                              <g>
+                                <svg viewBox="0 0 224 89.81320642474716" height="89.81320642474716" width="224">
+                                  <g transform="matrix(1,0,0,1,0,0)">
+                                    <svg width="224" viewBox="3.25 -33.7 84.05 33.7" height="89.81320642474716" data-palette-color="#091f5b">
+                                      <path d="M20.3-16.85L32.25 0 22.6 0 11.3-16.75 22.2-33.7 31.35-33.7 20.3-16.85ZM10.95-33.7L10.95 0 3.25 0 3.25-33.7 10.95-33.7ZM56.5-6.75L56.5 0 36.35 0 36.35-33.7 44.05-33.7 44.05-6.75 56.5-6.75ZM72.25-27.45L72.25-27.45 68.45-27.45 68.45-17.95 72.09-17.95Q77.09-17.95 77.09-22.85L77.09-22.85Q77.09-25 75.8-26.23 74.5-27.45 72.25-27.45ZM68.45-11.7L68.45 0 60.75 0 60.75-33.7 72.4-33.7Q78.05-33.7 81.47-30.7 84.9-27.7 84.9-22.9L84.9-22.9Q84.9-15.7 78.75-12.95L78.75-12.95 87.3 0 78.09 0 70.8-11.7 68.45-11.7Z" opacity="1" transform="matrix(1,0,0,1,0,0)" fill="#091f5b" class="wordmark-text-0" data-fill-palette-color="primary" id="text-0"></path>
+                                    </svg>
+                                  </g>
+                                </svg>
+                              </g>
+                            </svg>
+                          </g>
+                        </svg>
+                      </g>
+                      <!-- ICON -->
+                      <g transform="matrix(1,0,0,1,46.2448,0)">
+                        <svg viewBox="0 0 131.5104 115.8615652173913" height="115.8615652173913" width="131.5104">
+                          <g>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" viewBox="6.3 11.5 87.4 77" style="enable-background:new 0 0 100 100;" xml:space="preserve" height="115.8615652173913" width="131.5104" class="icon-icon-0" data-fill-palette-color="accent" id="icon-0">
+                              <path d="M72.3 12.3L71.9 11.5H28.2L6.3 50 28.1 88.5H71.8L93.7 50zM33.3 25.3L9.9 47.7 28.5 14.9zM70.7 14.8L77.1 50.5 36.9 25.8zM35.5 27.3L76.5 52.5 35.5 75.8zM77 54.5L69.8 85.3 37.2 77.2zM33.5 75L9.9 50.5 33.5 27.8zM33.2 77.6L28.6 85.3 11.5 55.1zM35 78.6L66.4 86.5H30.2zM79.3 53.3L90.9 50.8 72.1 84zM90.7 48.9L79.3 51.4 73.4 18.3zM35 24.3L30 13.5H68.2z" fill="#0c437d" data-fill-palette-color="accent"></path>
+                            </svg>
+                          </g>
+                        </svg>
+                      </g>
+                      <g></g>
+                    </svg>
+                  </g>
+                </svg>
+              </g>
